@@ -1,0 +1,39 @@
+{
+  "name": "ressale_scrapping",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1482.0",
+    "axios": "^1.7.2",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "cryptr": "^6.3.0",
+    "dotenv": "^16.3.1",
+    "dump-die": "^1.0.0",
+    "express": "^4.19.2",
+    "express-fileupload": "^1.4.1",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^9.0.2",
+    "moment": "^2.29.4",
+    "mysql2": "^3.6.1",
+    "node-fetch": "^3.3.2",
+    "nodemon": "^3.0.1",
+    "qs": "^6.11.2",
+    "redis": "^3.0.0",
+    "sequelize": "^6.33.0",
+    "ssh2-sftp-client": "^9.1.0",
+    "url": "^0.11.3"
+  }
+}
